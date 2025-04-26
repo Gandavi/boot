@@ -1,0 +1,26 @@
+.btn-custom{
+    border: 4px solid rgba(35, 35, 33, 0.216);
+    background-color:rgba(164, 164, 173, 0.993) ;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+.a{
+    text-align: center;
+}
+.b{
+    text-align: center;
+}
+.c{
+    text-align: center;
+}
+.d:hover{
+    padding: 25px;
+    border: 29px solid rgb(108, 108, 100);
+}
+.l:hover{
+    padding: 25px;
+    border: 29px solid rgb(108, 108, 100);
+}
+.masker-img{
+    background-image: url("../img/когтеточка.webp");
+}
